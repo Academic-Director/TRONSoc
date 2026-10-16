@@ -17,20 +17,19 @@ TRONSoc is Carleton University's official student society for Mechatronics Engin
 ## Repository Contents
 
 ### 1. Workshops (`/workshops`)
-This directory contains our educational resources like our tutorial documents and final products for every workshop we've hosted.
+This directory contains our educational resources like tutorial documents and final products for every workshop we've hosted.
 
 * For Example: **`workshops/bobaCAD/`** Contains Finished CAD models and tutorial documents from all three BobaCAD 2026 workshops.
 
 ---
 
 ### 2. Current Projects (`/projects`)
-This section serves as a tracking dashboard and resource hub for ongoing engineering projects developed by TRONSoc members and teams.
+This section serves as a resource hub for ongoing engineering projects developed by TRONSoc members. 
 
-Each project subfolder includes:
-* Detailed system requirements and technical design briefs.
-* Full CAD models and structural assemblies.
-* Source code and embedded firmware binaries.
-* Electrical schematics, PCB designs, and Bill of Materials (BOM).
+Each project subfolder can include:
+* CAD models and assemblies.
+* Firmware and software.
+* Electrical schematics, PCB designs, and the project's Bill of Materials (BOM).
 
 ---
 
