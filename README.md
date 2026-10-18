@@ -2,9 +2,9 @@
   <img width="250" height="250" alt="TRONSoc Logo" src="https://github.com/user-attachments/assets/a79165d7-c90c-4a29-8706-9724598c15ec" />
 </p>
 
-### Carleton University Mechatronics Society (TRONSoc) Workshop Repository
+### Carleton University Mechatronics Society (TRONSoc) Resources Repository
 
-Welcome to the repository for TRONSoc workshop materials. This serves as a central location for our past and present workshop materials and projects.
+Welcome to the resources repository for TRONSoc. This serves as a central location for our past and present workshop materials and projects.
 
 ---
 
